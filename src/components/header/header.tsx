@@ -22,7 +22,7 @@ export default function Header() {
             </a>
           </li>
           <li>
-            <a href="#design-sprint" className="text-green900 hover:text-green900 font-medium transition-colors">
+            <a href="#design" className="text-green900 hover:text-green900 font-medium transition-colors">
               Design Sprint
             </a>
           </li>
