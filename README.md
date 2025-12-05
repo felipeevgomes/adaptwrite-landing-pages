@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AdaptWrite 📝
 
-## Getting Started
+Landing page do AdaptWrite - uma aplicação inovadora que utiliza Inteligência Artificial para auxiliar alunos na escrita de redações.
 
-First, run the development server:
+## 📖 Sobre o Projeto
 
+O AdaptWrite é uma ferramenta educacional que combina tecnologia de IA com pedagogia para ajudar estudantes a desenvolverem suas habilidades de escrita. A plataforma oferece suporte inteligente durante todo o processo de criação de redações, desde o brainstorming até a revisão final.
+
+## 🚀 Tecnologias Utilizadas
+
+- **Next.js** - Framework React para produção
+- **TypeScript** - Superset JavaScript com tipagem estática
+- **Tailwind CSS** - Framework CSS utilitário
+- **Radix UI** - Componentes UI acessíveis
+
+## 💻 Como Rodar o Projeto
+
+### Pré-requisitos
+
+- Node.js (versão 18 ou superior)
+- npm ou yarn
+
+### Instalação
+
+1. Clone o repositório:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/seu-usuario/adaptwrite-landing-pages.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Entre na pasta do projeto:
+```bash
+cd adaptwrite-landing-pages
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Instale as dependências:
+```bash
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Execute o projeto em modo de desenvolvimento:
+```bash
+npm run dev
+```
 
-## Learn More
+5. Abra o navegador e acesse:
+```
+http://localhost:3000
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Funcionalidades da Landing Page
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- ✅ Apresentação do aplicativo
+- ✅ Demonstração em vídeo
+- ✅ Informações sobre a metodologia Design Sprint
+- ✅ Apresentação da equipe
+- ✅ Protótipos interativos
+- ✅ Navegação suave entre seções
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👥 Equipe
 
-## Deploy on Vercel
+Desenvolvido com 💚 pela equipe AdaptWrite
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📄 Licença
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Este projeto está sob a licença MIT.
+
+---
+
+**AdaptWrite** - Transformando a escrita com Inteligência Artificial
