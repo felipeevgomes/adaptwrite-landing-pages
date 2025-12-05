@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import pc from '@/assets/imgs/pc-adapt.png';
+import pc from '@/assets/imgs/pc-adaptwrite.png';
 
 export default function SobreNos() {
   return (
