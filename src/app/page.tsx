@@ -13,7 +13,7 @@ export default function Home() {
       <MostrarUsuario
         id="video"
         title="Vídeo conceitual"
-        url="https://www.youtube.com/embed/hhMGXOW1Mbg?si=e8gTGpNgFU0W67MQ"
+        url="https://www.youtube.com/embed/N1oVT3vC8sE?si=aAW2n_qOdxrfGr2Z"
         titleDescricao="Vídeo Conceitual"
       />
       <SobreNos />
@@ -27,7 +27,7 @@ export default function Home() {
       <MostrarUsuario
         id="prototipos"
         title="Protótipo no Figma"
-        url="https://embed.figma.com/design/kOZqWzTAEjBYwb37lt6KjE/Adapt-Write-Telas?node-id=0-1&m=dev&embed-host=share"
+        url="https://embed.figma.com/proto/DyIkkF8AFI0GSbM89Lh4p8/AdaptWrite-IHC?node-id=25-813&p=f&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=25%3A813&embed-host=share"
         titleDescricao="Protótipo no Figma"
       />
       <Footer/>
