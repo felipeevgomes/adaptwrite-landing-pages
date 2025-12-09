@@ -14,9 +14,9 @@ export const MostrarUsuario = ({
   return (
     <section
       id={id}
-      className="min-h-screen md:px-12 py-20 bg-white flex flex-col items-center"
+      className="min-h-screen px-6 md:px-12 py-20 bg-white flex flex-col items-center justify-center"
     >
-      <h2 className=" text-black text-5xl font-bold italic text-center mb-16 ">
+      <h2 className="text-black text-3xl md:text-5xl font-bold italic text-center mb-12 md:mb-16">
         {title}
       </h2>
       <div className="relative w-full max-w-5xl mx-auto">
