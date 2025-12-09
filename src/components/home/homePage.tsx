@@ -15,9 +15,9 @@ export default function HomePage() {
           </h1>
 
           <p className="pb-12 text-2xl font-light text-center">
-            Desenvolvido para apoiar alunos do ensino
+            Desenvolvida para ajudar alunos de ensino
             <br />
-            médio a se organizar e escrever boas redações.
+            médio a se organizarem e escreverem boas redações.
           </p>
         </div>
       </section>
